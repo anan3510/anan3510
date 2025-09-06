@@ -1,23 +1,33 @@
-<h1 align="left">Hi 👋! My name is Anan and I'm a Java beginner</h1>
+<h1 align="left">Hey 👋! Am Anan and welcome to my profile</h1>
+
 
 <!-- STATS -->
 <div align="center">
+  <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&hide_border=false" height="150" alt="stats graph" />
+  
+</div>
+<div align="center">  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&theme=dracula&title_color=40E0D0&text_color=ffffff&hide_border=false" height="150" alt="languages graph" />
+
+  <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
 </div>
 
 <!-- CENTER-ALIGNED GIFS -->
-<div align="center">
-  <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
-  <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
-  
-</div>
+
+
 
 <!-- SKILLS: -->
 <h2 align="left">SKILLS:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+</div>
+
+<!-- redbull: -->
+<div align="right">
+  <img height="150" src="https://i.pinimg.com/1200x/ca/98/65/ca9865babe6637d98abfe049f3d659f2.jpg" alt="gif 1" />
 </div>
 
 <!-- SOCIALS -->
@@ -38,6 +48,11 @@
   <a href="https://www.linkedin.com/in/anan-rahman-khan-a35274370 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
+</div>
+<div align="right">
+  
+  <img height="150" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
+  
 </div>
 
 <!--  -->
