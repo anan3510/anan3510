@@ -8,6 +8,7 @@
 <br>
 <!-- ABOUT ME -->
 <h2 align="left">✨ About Me:</h2>
+<img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
 <ul>
   <li>👨‍💻 Java beginner, passionate about coding and problem solving</li>
   <li>🎓 Learning software development</li>
@@ -17,6 +18,7 @@
 <br>
 <!-- STATS -->
 <h2 align="left">🔥 Stats:</h2>
+<br>
 <!-- STATS 1 -->
 <div align="center">
   <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
@@ -29,14 +31,7 @@
   <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
 </div>
 
-<!-- STATS 3 -->
-<div align="center">
-  <img height="160" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-96.gif" alt="gif 1" />
-  <img src="https://streak-stats.demolab.com?user=anan3510&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&stroke=40e0d0&ring=40e0d0&fire=40e0d0&text=40e0d0&side_color=5b2b6f" height="150" alt="streak graph" />
 
-
-
-</div>
 
 <br>
 <!-- SKILLS: -->
@@ -47,7 +42,7 @@
 
 <!-- redbull: -->
 <div align="right">
-  <img height="125" src="https://i.pinimg.com/1200x/ca/98/65/ca9865babe6637d98abfe049f3d659f2.jpg" alt="gif 1" />
+  <img height="150" src="https://i.pinimg.com/1200x/ca/98/65/ca9865babe6637d98abfe049f3d659f2.jpg" alt="gif 1" />
 </div>
 
 <br>
@@ -74,7 +69,7 @@
 <!-- INA SPIN -->
 <div align="right">
   
-  <img height="125" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
+  <img height="150" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
   
 </div>
 
