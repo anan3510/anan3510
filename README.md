@@ -1,6 +1,22 @@
-<h1 align="left">Hey 👋! Am Anan and welcome to my profile!</h1>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=0&color=40E0D0&width=435&lines=I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
+</div>
+<!div align="center">
+  <!img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=750&color=4B0082&width=435&lines=" alt="Typing SVG" />
+</div>
+<br>
+<br>
+<!-- ABOUT ME -->
+<h2 align="left">✨ About Me:</h2>
+<ul>
+  <li>👨‍💻 Java beginner, passionate about coding and problem solving</li>
+  <li>🎓 Learning software development</li>
+  <li>🚀 Interested in building projects</li>
+  <li>🎮 Enjoy gaming and fun animations in my profile </li>
+</ul>
+<br>
+<!-- STATS -->
+<h2 align="left">🔥 Stats:</h2>
 <!-- STATS 1 -->
 <div align="center">
   <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
@@ -16,26 +32,27 @@
 <!-- STATS 3 -->
 <div align="center">
   <img height="160" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-96.gif" alt="gif 1" />
-  <img src="https://streak-stats.demolab.com?user=anan3510&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+  <img src="https://streak-stats.demolab.com?user=anan3510&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&stroke=40e0d0&ring=40e0d0&fire=40e0d0&text=40e0d0&side_color=5b2b6f" height="150" alt="streak graph" />
+
+
+
 </div>
 
-
+<br>
 <!-- SKILLS: -->
-<h2 align="left">SKILLS:</h2>
+<h2 align="left">🛠️ Languages & Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
-
 
 <!-- redbull: -->
 <div align="right">
   <img height="125" src="https://i.pinimg.com/1200x/ca/98/65/ca9865babe6637d98abfe049f3d659f2.jpg" alt="gif 1" />
 </div>
 
-
+<br>
 <!-- SOCIALS -->
-<h2 align="left">CONTACT ME:</h2>
+<h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
   <a href="mailto:ananrkhan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail" />
@@ -63,7 +80,8 @@
 
 <!--  -->
 <br clear="both" />
-
+<br>
+<h2 align="left">🚀 Contributions:</h2>
 <!-- PAC-MAN -->
 <div align="center">
   <picture>
