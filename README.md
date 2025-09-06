@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋! My name is Anan and I'm a Java beginner</h1>
 
-<!-- STATS (unchanged) -->
+<!-- STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anan3510&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&theme=dracula&title_color=40E0D0&text_color=ffffff&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <!-- CENTER-ALIGNED GIFS -->
@@ -13,7 +14,7 @@
   
 </div>
 
-<!-- SKILLS: only Java -->
+<!-- SKILLS: -->
 <h2 align="left">SKILLS:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
@@ -39,10 +40,10 @@
   </a>
 </div>
 
-<!-- CLEAR FLOATS SO LAYOUT DOESN'T OVERLAP -->
+<!--  -->
 <br clear="both" />
 
-<!-- PAC-MAN (centered) -->
+<!-- PAC-MAN -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anan3510/anan3510/output/pacman-contribution-graph-dark.svg">
