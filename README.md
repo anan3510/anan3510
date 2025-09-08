@@ -1,3 +1,4 @@
+<!-- WELCOME TEXT -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=0&color=40E0D0&width=435&lines=I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
 </div>
@@ -6,6 +7,7 @@
 </div>
 <br>
 <br>
+
 <!-- ABOUT ME -->
 <h2 align="left">✨ About Me:</h2>
 <img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
@@ -25,15 +27,13 @@
   <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
   <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
 </div>
-
 <!-- STATS 2 -->
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&theme=dracula&title_color=40E0D0&text_color=ffffff&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
   <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
 </div>
-
-
 <br>
+
 <!-- SKILLS: -->
 <h2 align="left">🛠️ Languages & Tools:</h2>
 <div align="left">
@@ -44,8 +44,8 @@
 <div align="right">
   <img height="150" src="https://i.pinimg.com/1200x/ca/98/65/ca9865babe6637d98abfe049f3d659f2.jpg" alt="gif 1" />
 </div>
-
 <br>
+
 <!-- SOCIALS -->
 <h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
@@ -68,14 +68,12 @@
 
 <!-- INA SPIN -->
 <div align="right">
-  
   <img height="150" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
-  
 </div>
-
-<!--  -->
 <br clear="both" />
 <br>
+
+<!-- CONTRIBUTION -->
 <h2 align="left">🚀 Contributions:</h2>
 <!-- PAC-MAN -->
 <div align="center">
