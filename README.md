@@ -58,12 +58,16 @@
   <a href="https://www.instagram.com/___anan_._?igsh=bWZraGVzMDNzYmpk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram" />
   </a>
-  <a href="https://www.hackerrank.com/profile/ananrkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="hackerrank" />
-  </a>
   <a href="https://www.linkedin.com/in/anan-rahman-khan-a35274370 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin" />
   </a>
+  <a href="https://www.hackerrank.com/profile/ananrkhan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="hackerrank" />
+  </a>
+  <a href="https://codeforces.com/profile/Anan_Rahman_Khan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codeforces" />
+  </a>
+
 </div>
 
 <!-- INA SPIN -->
