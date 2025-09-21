@@ -10,7 +10,7 @@
 
 <!-- ABOUT ME -->
 <h2 align="left">✨ About Me:</h2>
-<img align="right" height="200" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
+<img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
 <ul>
   <li>👨‍💻 Java beginner, passionate about coding and problem solving</li>
   <li>🎓 Learning software development</li>
