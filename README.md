@@ -25,11 +25,15 @@
 <!-- STATS 1 -->
 <div align="center">
   <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,211D28,514560,5C4E6D&title_color=F1CB64&icon_color=F1CB64&text_color=F2CB8C&hide_border=true" height="150" alt="stats graph" #gh-light-mode-only />
+    <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,695C80,A68DC4,FFFFFF&title_color=1D1D37&icon_color=1D1D37&text_color=2D2D55&hide_border=true" height="150" alt="stats graph" #gh-dark-mode-only />
 </div>
 <!-- STATS 2 -->
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&theme=dracula&title_color=40E0D0&text_color=ffffff&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&bg_color=45,211D28,514560,5C4E6D&title_color=F1CB64&text_color=F2CB8C&hide_border=true"
+        height="150" alt="languages graph" #gh-light-mode-only />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&bg_color=45,695C80,A68DC4,FFFFFF&title_color=1D1D37&text_color=2D2D55&hide_border=true"
+        height="150" alt="languages graph" #gh-dark-mode-only />
   <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
 </div>
 <br>
