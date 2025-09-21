@@ -10,7 +10,7 @@
 
 <!-- ABOUT ME -->
 <h2 align="left">✨ About Me:</h2>
-<img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
+<img align="right" height="200" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
 <ul>
   <li>👨‍💻 Java beginner, passionate about coding and problem solving</li>
   <li>🎓 Learning software development</li>
@@ -19,22 +19,20 @@
 </ul>
 <br>
 
-
 <!-- STATS -->
 <h2 align="left">🔥 Stats:</h2>
 <br>
+<!-- STATS 1 -->
 <div align="center">
-<img align="center" height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif"alt="gif 1" />
-  
-<!-- STAT 1 -->
-[![anan3510's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,695C80,A68DC4,FFFFFF&title_color=1D1D37&icon_color=1D1D37&text_color=2D2D55&hide_border=true#gh-light-mode-only)](https://github.com/anan3510/github-readme-stats#gh-light-mode-only)
-[![anan3510's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,211D28,514560,5C4E6D&title_color=F1CB64&icon_color=F1CB64&text_color=F2CB8C&hide_border=true#gh-dark-mode-only)](https://github.com/anan3510/github-readme-stats#gh-dark-mode-only)
-
-<!-- STAT 2 -->
-[![anan3510's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&bg_color=45,695C80,A68DC4,FFFFFF&title_color=1D1D37&text_color=2D2D55&hide_border=true#gh-light-mode-only)](https://github.com/anan3510/github-readme-stats#gh-light-mode-only)
-[![anan3510's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&bg_color=45,211D28,514560,5C4E6D&title_color=F1CB64&text_color=F2CB8C&hide_border=true#gh-dark-mode-only)](https://github.com/anan3510/github-readme-stats#gh-dark-mode-only)
-
-<img align="center" height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
+  <img height="150" src="https://media.tenor.com/YNRd2q7b5IEAAAAj/walfie-ninomae-inanis.gif" alt="gif 1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anan3510&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,393245,695C80,A68DC4&title_color=C3C5C5&icon_color=C3C5C5&text_color=C3C5C5&hide_border=true"
+        height="150" alt="stats graph"/>
+</div>
+<!-- STATS 2 -->
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan3510&layout=compact&langs_count=5&bg_color=45,393245,695C80,A68DC4&title_color=C3C5C5&text_color=C3C5C5&hide_border=true"
+        height="150" alt="languages graph"/>
+  <img height="150" src="https://walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-99.gif" alt="gif 1" />
 </div>
 <br>
 
