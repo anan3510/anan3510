@@ -1,15 +1,18 @@
 <!-- WELCOME TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=0&color=40E0D0&width=435&lines=I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AA97D2&background=37324300&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=110&lines=HI+I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
 </div>
 <!div align="center">
-  <!img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=750&color=4B0082&width=435&lines=" alt="Typing SVG" />
+  <!img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=750&color=4B425D&width=435&lines=" alt="Typing SVG" />
 </div>
 <br>
 <br>
 
+
 <!-- ABOUT ME -->
-<h2 align="left">✨ About Me:</h2>
+<h2> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%E2%9C%A8+About+Me%3A" alt="Typing SVG" />
+</h2>
 <img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
 <ul>
   <li>👨‍💻 Java beginner, passionate about coding and problem solving</li>
@@ -19,8 +22,11 @@
 </ul>
 <br>
 
+
 <!-- STATS -->
-<h2 align="left">🔥 Stats:</h2>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%94%A5+Stats%3A" alt="Typing SVG" />
+</h2>
 <br>
 <!-- STATS 1 -->
 <div align="center">
@@ -36,11 +42,15 @@
 </div>
 <br>
 
+
 <!-- SKILLS: -->
-<h2 align="left">🛠️ Languages & Tools:</h2>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools%3A" alt="Typing SVG" />
+</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
+
 
 <!-- redbull: -->
 <div align="right">
@@ -48,9 +58,12 @@
 </div>
 <br>
 
+
 <!-- SOCIALS -->
-<h2 align="left">📫 Connect with Me:</h2>
-<div align="left">
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%93%AB+Connect+with+Me%3A" alt="Typing SVG" />
+</h2>
+<div align="center">
   <a href="mailto:ananrkhan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail" />
   </a>
@@ -63,24 +76,37 @@
   <a href="https://www.linkedin.com/in/anan-rahman-khan-a35274370 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin" />
   </a>
+</div>
+
+
+<!-- INA SPIN -->
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
+</div>
+<br clear="both" />
+<br>
+
+
+<!-- Coding Profiles -->
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%93%AB+Coding+Profiles%3A" alt="Typing SVG" />
+</h2>
+<div align="center">
   <a href="https://www.hackerrank.com/profile/ananrkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="hackerrank" />
   </a>
   <a href="https://codeforces.com/profile/Anan_Rahman_Khan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codeforces" />
   </a>
-
 </div>
-
-<!-- INA SPIN -->
-<div align="right">
-  <img height="150" src="https://i.pinimg.com/originals/0c/0f/bb/0c0fbbce991b34e58c82703fd573903e.gif" alt="gif 1" />
-</div>
-<br clear="both" />
+<br>
 <br>
 
+
 <!-- CONTRIBUTION -->
-<h2 align="left">🚀 Contributions:</h2>
+<!-- <h2 align="left">🚀 Contributions:</h2> -->
+
+
 <!-- PAC-MAN -->
 <div align="center">
   <picture>
@@ -88,4 +114,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anan3510/anan3510/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anan3510/anan3510/output/pacman-contribution-graph.svg">
   </picture>
+</div>
+
+
+<!-- INA COOKIE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AA97D2&background=37324300&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=110&lines=THANKS+FOR+STOPING+BY!%F0%9F%9A%80" alt="Typing SVG" />
 </div>
