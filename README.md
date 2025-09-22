@@ -1,6 +1,6 @@
 <!-- WELCOME TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AA97D2&background=37324300&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=110&lines=HI+I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AA97D2&background=37324300&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=110&lines=HI+I'M+ANAN;WELCOME+TO+MY+PROFILE;ENJOY+YOUR+STAY" alt="Typing SVG" />
 </div>
 <!div align="center">
   <!img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=750&color=4B425D&width=435&lines=" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 <!-- ABOUT ME -->
 <h2> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%E2%9C%A8+About+Me%3A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%E2%9C%A8+About+Me%3A" alt="Typing SVG" />
 </h2>
 <img align="right" height="150" src="https://c.tenor.com/CCEGYbxBqFAAAAAd/tenor.gif" alt="gif 1" />
 <ul>
@@ -25,7 +25,7 @@
 
 <!-- STATS -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%94%A5+Stats%3A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%F0%9F%94%A5+Stats%3A" alt="Typing SVG" />
 </h2>
 <br>
 <!-- STATS 1 -->
@@ -45,7 +45,7 @@
 
 <!-- SKILLS: -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools%3A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools%3A" alt="Typing SVG" />
 </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
@@ -61,7 +61,7 @@
 
 <!-- SOCIALS -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%93%AB+Connect+with+Me%3A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%F0%9F%93%AB+Connect+with+Me%3A" alt="Typing SVG" />
 </h2>
 <div align="center">
   <a href="mailto:ananrkhan@gmail.com" target="_blank">
@@ -89,7 +89,7 @@
 
 <!-- Coding Profiles -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F1B942&background=37324300&vCenter=true&repeat=false&width=435&height=30&lines=%F0%9F%93%AB+Coding+Profiles%3A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%F0%9F%93%AB+Coding+Profiles%3A" alt="Typing SVG" />
 </h2>
 <div align="center">
   <a href="https://www.hackerrank.com/profile/ananrkhan" target="_blank">
