@@ -70,7 +70,7 @@
   <a href="https://www.facebook.com/share/178fRwyMb3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="facebook" />
   </a>
-  <a href="https://www.https://www.instagram.com/imnotanan._/" target="_blank">
+  <a href="https://www.instagram.com/imnotanan._?igsh=bWZraGVzMDNzYmpk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram" />
   </a>
   <a href="https://www.linkedin.com/in/anan-rahman-khan-a35274370 " target="_blank">
