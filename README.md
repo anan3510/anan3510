@@ -64,9 +64,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=10000&color=F1B942&background=37324300&vCenter=true&repeat=true&width=435&height=30&lines=%F0%9F%93%AB+Connect+with+Me%3A" alt="Typing SVG" />
 </h2>
 <div align="left">
-  <a href="mailto:ananrkhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ananrkhan@gmail.com" target="_blank">
+  <img 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+    height="50" 
+    alt="gmail" 
+  />
+</a>
   <a href="https://www.facebook.com/share/178fRwyMb3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="facebook" />
   </a>
